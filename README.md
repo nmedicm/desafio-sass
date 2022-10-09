@@ -6,3 +6,5 @@ _variable.scss :
                 Línea 68
                 Línea 311
                 Línea 324
+                
+También fue modificado el archivo package.json en la línea 7
