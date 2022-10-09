@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inter+Tight:ital,wght@1,500&family=Roboto+Mono:wght@500&family=Roboto:wght@100;300&display=swap');
+
+$font-family-base: 'Dancing Script', cursive; 
+
+$primary: #cf649a;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.card {
+    @extend .card;
+    width: 30rem;
+}
